@@ -1,0 +1,49 @@
+html {
+    overflow: none;
+}
+body {
+    font-family: "Comic Sans MS";
+}
+#colorRN {
+    display: none;
+}
+#black {
+    background-color: #000000;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    font-size: 1px;
+}
+
+#red {
+    background-color: #AE6645;  
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    font-size: 1px;
+}
+
+#green {
+    background-color: #68984C;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    font-size: 1px;
+}
+
+#yellow {
+    background-color: #FFFB28;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    font-size: 1px;
+}
+
+#white {
+    background-color: #FFFFFF;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border: solid 1px black;
+    font-size: 1px;
+}
